@@ -1,0 +1,23 @@
+main.py
+  03c45e388dabcf7d 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "0f5d0c9ae2f2328326ce825f4befc47b9ef422dc",
+  "prompts": {
+    "03c45e388dabcf7d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "819096b3-874f-4b15-83bf-ee28d335e588",
+        "model": "default"
+      },
+      "human_author": "huang-sijia",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
