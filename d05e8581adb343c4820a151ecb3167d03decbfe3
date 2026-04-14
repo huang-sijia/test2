@@ -1,0 +1,23 @@
+README.md
+  03c45e388dabcf7d 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "d05e8581adb343c4820a151ecb3167d03decbfe3",
+  "prompts": {
+    "03c45e388dabcf7d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "819096b3-874f-4b15-83bf-ee28d335e588",
+        "model": "default"
+      },
+      "human_author": "huang-sijia",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
